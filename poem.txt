@@ -3,6 +3,8 @@ the rainbow
 red
 orange
 green
+violet
+purple
 blue
 yellow
 these are color of rainbow
